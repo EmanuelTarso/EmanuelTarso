@@ -98,7 +98,7 @@
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/joaopaulo" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=EmanuelTarso"/></a> -->
+<!-- <a href="https://twitter.com/emanu_tarso" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=EmanuelTarso"/></a> -->
 <a href="https://www.last.fm/pt/user/EmanuelTarso" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=EmanuelTarso&width=400"/></a>
 </div>
 <div>
