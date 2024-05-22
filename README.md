@@ -100,8 +100,5 @@
 <div>
 <details>
 
-</details>
-</div>
-</div>
 
 -----
