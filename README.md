@@ -154,7 +154,7 @@
 &nbsp; 
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/netbeans.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/vs2.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/intellij2.png?raw=true"/></a></code>
 </div>
