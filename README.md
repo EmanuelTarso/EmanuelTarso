@@ -55,7 +55,7 @@
 - :soccer: &nbsp; No <a href="https://www.instagram.com/personal_europa_brasil_bh/" target="_blank">Personal Europa</a>, sou <code>Jogador de futebol</code>,gosto muito do esporte, já cheguei a ir <br /> para a Europa em busca de oportunidade no cenarío profissional, ainda não desisti. <br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Galo</a>. :rooster:<br />
 - :basketball: &nbsp; Já joguei basquete pela equipe da PUC no ensino fundamental, hoje o esporte é um hobbie.<br />
-- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais  <code>EA SPORTS FC<code> e <code>NBA 2K<code>.<br />
+- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais  <code>EA SPORTS FC<code> e <code> NBA 2K <code>.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
