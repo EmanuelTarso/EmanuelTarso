@@ -53,11 +53,9 @@
 - :mortar_board: &nbsp; No <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>, concluí o ensino fundamental e o novo ensino médio.<br />
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
 - :soccer: &nbsp; No <a href="https://www.instagram.com/personal_europa_brasil_bh/" target="_blank">Personal Europa</a>, sou <code>Jogador de futebol</code>,gosto muito do esporte, já cheguei a ir <br /> para a Europa em busca de oportunidade no cenarío profissional, ainda não desisti. <br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Galo</a>. :rooster:<br />
+- :basketball: &nbsp; Já joguei basquete pela equipe da PUC no ensino fundamental, hoje o esporte é um hobbie.<br />
+- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais  <code>EA SPORTS FC<code> e <code>NBA 2K<code>.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
