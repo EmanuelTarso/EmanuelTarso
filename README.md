@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Emanuel<code>, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, sou o Emanuel, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
