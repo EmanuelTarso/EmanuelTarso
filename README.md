@@ -71,7 +71,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/graph.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmanuelTarso&theme=github_dark"/>
