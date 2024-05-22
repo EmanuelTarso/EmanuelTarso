@@ -50,8 +50,8 @@
 
 <div align="justify">
 <p> 
-- 🎓: &nbsp; No <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>, concluí o ensino fundameltal e o novo ensino médio.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
+- :mortar_board: &nbsp; No <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>, concluí o ensino fundamental e o novo ensino médio.<br />
+- :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
