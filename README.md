@@ -28,8 +28,6 @@
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
@@ -38,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o Emanuel, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, sou o <code>Emanuel<code>, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
