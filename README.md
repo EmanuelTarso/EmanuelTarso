@@ -16,7 +16,7 @@
 </td>
 <td><a href="mailto:EmanuTarso@gmail.com" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531989781958" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/Emanu.Tarso/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
