@@ -118,4 +118,3 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22ywxrsasenpofvfzqcvywtki&count=10"/>
 </div>
 <div>
------
