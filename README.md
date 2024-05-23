@@ -54,7 +54,7 @@
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
 - :soccer: &nbsp; No <a href="https://www.instagram.com/personal_europa_brasil_bh/" target="_blank">Personal Europa</a>, sou <code>Jogador de futebol</code>,gosto muito do esporte, já cheguei a ir para a Europa em busca de oportunidade no cenário profissional, ainda não desisti. <br />
 - :trophy: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Galo</a>. :rooster:<br />
-- :basketball: &nbsp; Já joguei basquete pela equipe da PUC no ensino fundamental, hoje o esporte é um hobbie.<br />
+- :basketball: &nbsp; Também sou fã de basquete, torço para o <code> Celtics </code>.<br />
 - :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e NBA 2K .<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
