@@ -18,7 +18,7 @@
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/EmanuelTarso/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/Emanu.Tarso/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://br.linkedin.com/in/emanuel-tarso-bb8b732ba/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
