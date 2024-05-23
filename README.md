@@ -58,7 +58,7 @@
 - :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e NBA 2K .<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
- <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=EmanuelTarso"/>
+ <br /> <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=EmanuelTarso"/>
 </p>
 </div>
 </div>
