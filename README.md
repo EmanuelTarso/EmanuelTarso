@@ -78,8 +78,6 @@
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/dbeaver.png?raw=true"/></a></code>
