@@ -86,7 +86,7 @@
 &nbsp;
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/javascript.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/css.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/csslogo.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/html.png?raw=true"/></a></code>
 </div>
