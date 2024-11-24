@@ -54,7 +54,7 @@
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
 - :trophy: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Galo</a>. :rooster:<br />
 - :basketball: &nbsp; Também sou fã de basquete, torço para o <code> Celtics </code>.<br />
-- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e NBA 2K .<br />
+- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e League of Legends .<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
  <br /> <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=EmanuelTarso"/>
