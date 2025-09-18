@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o Emanuel, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, sou o Emanuel, tenho 20 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estudante de Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
@@ -52,7 +52,6 @@
 <p> 
 - :mortar_board: &nbsp; No <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>, concluí o ensino fundamental e o novo ensino médio.<br />
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
-- :trophy: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Galo</a>. :rooster:<br />
 - :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e League of Legends .<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
