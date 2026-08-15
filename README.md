@@ -52,8 +52,8 @@
 <p> 
 - :mortar_board: &nbsp; No <a href="https://santamaria.pucminas.br/" target="_blank">Colégio Santa Maria Minas</a>, concluí o ensino fundamental e o novo ensino médio.<br />
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
-- :video_game: &nbsp; Sou fã de jogos, atualmente estou jogando mais EA SPORTS FC e League of Legends .<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanutarso@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :video_game: &nbsp; Sou fã de jogos e animações em geral. <br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanueltamaciel@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
  <br /> <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=EmanuelTarso"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/EmanuelTarso?style=social"/>
