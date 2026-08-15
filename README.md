@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://br.linkedin.com/in/emanuel-tarso-bb8b732ba/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/curriculoicon2.jpg?raw=true" width="50px" height="50px"/></a>
+<td><a href="http://lattes.cnpq.br/" target="_blank"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/curriculoicon2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/EmanuelTarso/EmanuelTarso/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
