@@ -54,7 +54,7 @@
 - :scroll: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">Newton Paiva</a>, sou <code>graduando</code> no curso de Sistemas de Informação.<br />
 - :video_game: &nbsp; Sou fã de jogos e animações em geral. <br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:emanueltamaciel@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/" target="_blank">Currículo Lattes</a> para mais informações.<br />
+- :page_facing_up: &nbsp; Veja meu <a href="./curriculo.pdf" target="_blank">Currículo</a> para mais informações.<br />
  <br /> <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=EmanuelTarso"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/EmanuelTarso?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/EmanuelTarso?style=social"/>
